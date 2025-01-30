@@ -1,8 +1,7 @@
-# React + Vite
+# Edistys Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Edistys Task](https://edistys-task.vercel.app/) is a landing page similar to [AnyTxn](https://anytxn.com/en), created as part of a job task assigned by `Edistys`. You can view the live project [here](https://edistys-task.vercel.app/).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+* Built with the latest version of React.js.
+* Styled using Tailwind CSS.
